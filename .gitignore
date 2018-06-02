@@ -1,0 +1,11 @@
+target/
+.idea/
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+/order-soa.tar.gz
+*.gz
+.DS_Store
